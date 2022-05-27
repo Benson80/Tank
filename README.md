@@ -7,3 +7,4 @@ git clone https://github.com/Benson80/Tank.git
 cd Tank
 
 python Game5.py
+![image](https://user-images.githubusercontent.com/81787444/170658597-fd1af49e-b0d3-4caa-b3dc-9c7855b27150.png)
